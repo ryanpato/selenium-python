@@ -1,7 +1,6 @@
-# selenium-python
+# Selenium-Python :snake:
 
-A work-in-progress, simple demo-project utilising [Selenium](https://www.selenium.dev/) and [Python](https://www.python.org/). 
-[selenium-page-factory](https://selenium-page-factory.readthedocs.io/en/latest/), [pytest](https://docs.pytest.org/)
+A work-in-progress, simple demo-project utilising [Selenium](https://www.selenium.dev/), [Python](https://www.python.org/), [Selenium-Page-Factory](https://selenium-page-factory.readthedocs.io/en/latest/) and [Pytest](https://docs.pytest.org/).
 
 # Setup 
 
